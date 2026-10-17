@@ -1,0 +1,149 @@
+{
+  "levels": [
+    {
+      "name": "١. سەرەتایی (Beginner)",
+      "lessons": [
+        {
+          "id": "b1",
+          "title": "سڵاو و خۆناساندن",
+          "items": [
+            {"en": "Hello", "ku": "سڵاو"},
+            {"en": "Goodbye", "ku": "خوا حافیز"},
+            {"en": "Thank you", "ku": "سوپاس"},
+            {"en": "Please", "ku": "تکایە"},
+            {"en": "My name is Amer.", "ku": "ناوم عامرە."},
+            {"en": "How are you?", "ku": "چۆنی؟"}
+          ]
+        },
+        {
+          "id": "b2",
+          "title": "ژمارەکان",
+          "items": [
+            {"en": "One", "ku": "یەک"},
+            {"en": "Two", "ku": "دوو"},
+            {"en": "Three", "ku": "سێ"},
+            {"en": "Four", "ku": "چوار"},
+            {"en": "Five", "ku": "پێنج"},
+            {"en": "Ten", "ku": "دە"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "٢. بنەڕەتی (Elementary)",
+      "lessons": [
+        {
+          "id": "e1",
+          "title": "خواردن",
+          "items": [
+            {"en": "Water", "ku": "ئاو"},
+            {"en": "Bread", "ku": "نان"},
+            {"en": "Rice", "ku": "برنج"},
+            {"en": "I am hungry.", "ku": "من برسیمە."},
+            {"en": "I like tea.", "ku": "من چام خۆشدەوێت."},
+            {"en": "Where is the restaurant?", "ku": "چێشتخانەکە لە کوێیە؟"}
+          ]
+        },
+        {
+          "id": "e2",
+          "title": "خێزان",
+          "items": [
+            {"en": "Mother", "ku": "دایک"},
+            {"en": "Father", "ku": "باوک"},
+            {"en": "Brother", "ku": "برا"},
+            {"en": "Sister", "ku": "خوشک"},
+            {"en": "This is my family.", "ku": "ئەمە خێزانەکەمە."},
+            {"en": "I have two brothers.", "ku": "دوو برام هەیە."}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "٣. ناوەند (Intermediate)",
+      "lessons": [
+        {
+          "id": "i1",
+          "title": "کار",
+          "items": [
+            {"en": "Meeting", "ku": "کۆبوونەوە"},
+            {"en": "Salary", "ku": "مووچە"},
+            {"en": "I work in a warehouse.", "ku": "من لە کۆگایەک کار دەکەم."},
+            {"en": "Can you help me?", "ku": "دەتوانیت یارمەتیم بدەیت؟"},
+            {"en": "I will call you tomorrow.", "ku": "سبەینێ پەیوەندیت پێوە دەکەم."},
+            {"en": "The office opens at eight.", "ku": "نووسینگەکە کاتژمێر هەشت دەکرێتەوە."}
+          ]
+        },
+        {
+          "id": "i2",
+          "title": "گەشت",
+          "items": [
+            {"en": "Ticket", "ku": "بلیت"},
+            {"en": "Passport", "ku": "پاسپۆرت"},
+            {"en": "Airport", "ku": "فڕۆکەخانە"},
+            {"en": "How much is the ticket?", "ku": "بلیتەکە بە چەندە؟"},
+            {"en": "I would like to book a room.", "ku": "دەمەوێت ژوورێک حیجز بکەم."},
+            {"en": "The train leaves at noon.", "ku": "شەمەندەفەرەکە لە نیوەڕۆدا دەڕوات."}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "٤. ناوەندی بەرز (Upper-Intermediate)",
+      "lessons": [
+        {
+          "id": "u1",
+          "title": "ڕستەی مەرجی و ڕابردوو",
+          "items": [
+            {"en": "Experience", "ku": "ئەزموون"},
+            {"en": "Opportunity", "ku": "دەرفەت"},
+            {"en": "If I had more time, I would study more.", "ku": "ئەگەر کاتی زیاترم هەبووایە، زیاتر دەمخوێند."},
+            {"en": "I have been learning English for two years.", "ku": "دوو ساڵە ئینگلیزی فێر دەبم."},
+            {"en": "She suggested that we leave early.", "ku": "ئەو پێشنیاری کرد زوو بڕۆین."},
+            {"en": "Despite the rain, we went out.", "ku": "سەرەڕای بارانەکە، چووینە دەرەوە."}
+          ]
+        },
+        {
+          "id": "u2",
+          "title": "کار و کۆمپانیا",
+          "items": [
+            {"en": "Environment", "ku": "ژینگە"},
+            {"en": "Improve", "ku": "باشتر کردن"},
+            {"en": "The company decided to expand its business.", "ku": "کۆمپانیاکە بڕیاریدا کارەکانی فراوان بکات."},
+            {"en": "I look forward to hearing from you.", "ku": "چاوەڕێی وەڵامەکەتم."},
+            {"en": "He is responsible for managing the team.", "ku": "ئەو بەرپرسە لە بەڕێوەبردنی تیمەکە."},
+            {"en": "We need to reduce costs.", "ku": "پێویستە تێچووەکان کەم بکەینەوە."}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "٥. پێشکەوتوو (Advanced)",
+      "lessons": [
+        {
+          "id": "a1",
+          "title": "ڕستەی ئاڵۆز",
+          "items": [
+            {"en": "Reluctant", "ku": "بێ ئارەزوو"},
+            {"en": "Inevitable", "ku": "حەتمی، ڕاناگیرێت"},
+            {"en": "Had I known, I would have acted differently.", "ku": "ئەگەر بمزانیایە، جیاواز مامەڵەم دەکرد."},
+            {"en": "The results were far from satisfactory.", "ku": "ئەنجامەکان زۆر دوور بوون لە دڵخۆشکەر بوون."},
+            {"en": "Not only did he apologize, but he also paid for the damage.", "ku": "نەک هەر داوای لێبوردنی کرد، بەڵکو قەرەبووی زیانەکەشی کردەوە."},
+            {"en": "It goes without saying that quality matters.", "ku": "پێویست ناکات بوترێت کە کوالیتی گرنگە."}
+          ]
+        },
+        {
+          "id": "a2",
+          "title": "ئینگلیزی پیشەیی",
+          "items": [
+            {"en": "Ambiguous", "ku": "نادیار، دوو واتا"},
+            {"en": "Sustainable", "ku": "بەردەوام"},
+            {"en": "The proposal was met with considerable resistance.", "ku": "پێشنیارەکە بەرەنگاربوونەوەیەکی زۆری بەرکەوت."},
+            {"en": "She managed to negotiate a favorable deal.", "ku": "توانی ڕێککەوتنێکی باش بەدەست بهێنێت."},
+            {"en": "Under no circumstances should you share your password.", "ku": "بە هیچ شێوەیەک نابێت وشەی نهێنیت لەگەڵ کەس بەشە بکەیت."},
+            {"en": "The more you practice, the better you become.", "ku": "چەندە زیاتر ڕاهێنان بکەیت، ئەوەندە باشتر دەبیت."}
+          ]
+        }
+      ]
+    }
+  ]
+}
